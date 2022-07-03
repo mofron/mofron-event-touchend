@@ -1,0 +1,22 @@
+{
+  "name": "mofron-event-touchend",
+  "version": "0.0.1",
+  "description": "touchend event for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofron/mofron-event-touchend.git"
+  },
+  "keywords": [
+    "front-end.mofron"
+  ],
+  "author": "simpats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mofron/mofron-event-touchend/issues"
+  },
+  "homepage": "https://github.com/mofron/mofron-event-touchend#readme"
+}
